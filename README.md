@@ -1,4 +1,4 @@
-# Wayfinding
+# DataWorks! Help Desk
 
 ![DW Help Desk Icon](https://user-images.githubusercontent.com/90872869/145874689-e9e59561-7bae-4e19-aaa6-c7840ed3463f.jpg "DataWorks Help Desk Icon")
 
