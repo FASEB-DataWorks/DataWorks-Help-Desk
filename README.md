@@ -6,7 +6,7 @@ The DataWorks! Help Desk provides guidance for the biological and biomedical res
 
 # Join the Conversation!
 
-FASEB is a recent entry into the data sharing and reuse ecosystem, and as such we seek to learn and partner with organizations and initiatives already in this space.  FASEB DataWorks! activities can build bridges, augment and amplify resources for adoption and use by researchers in the biological and biomedical communities -- and beyond.  We are currently seeking partners for curriculum development, ongoing professional development opportunities, and funding for the Capacity Program and the Catalyst Prize.
+FASEB is a recent entry into the data sharing and reuse ecosystem, and as such we seek to learn and partner with organizations and initiatives already in this space.  FASEB DataWorks! activities can build bridges, augment and amplify resources for adoption and use by researchers in the biological and biomedical communities -- and beyond.  We are currently seeking partners for curriculum development, ongoing professional development opportunities, and funding to support the Community and Prize programs.
 
 **Interested in partnering with FASEB? Want to learn more?  For more information, please contact FASEB at info@faseb.org.**
 
