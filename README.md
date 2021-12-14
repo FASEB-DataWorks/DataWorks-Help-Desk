@@ -2,7 +2,7 @@
 
 ![DW Help Desk Icon](https://user-images.githubusercontent.com/90872869/145874689-e9e59561-7bae-4e19-aaa6-c7840ed3463f.jpg "DataWorks Help Desk Icon")
 
-The DataWorks! Help Desk provides guidance for the biological and biomedical research community to navigate and adopt data sharing and reuse policies and practices.  It brings together existing data sharing and reuse resources in partnership with societies and institutions to provide a human touch to help researchers through rough spots. It is predicated on the idea that most researchers want to share their data but do not have the resources or know-how to do so. The Help Desk will be fueled by DataWorks! Fellows, who will identify partners, and help to collect, adapt, and annotate content for an open knowledgebase of data reuse practices and policies.  Fellows will also support a chat-based peer mentoring service. *Planned launch in 2022.*
+The DataWorks! Help Desk provides guidance for the biological and biomedical research community to navigate and adopt data sharing and reuse policies and practices.  It brings together existing data sharing and reuse resources in partnership with societies and institutions to provide a human touch to help researchers through rough spots. It is predicated on the idea that most researchers want to share their data but do not have the resources or know-how to do so. The Help Desk will be fueled by the DataWorks! Community, to identify partners; collect, adapt, and annotate content for an open knowledgebase of data reuse practices and policies;  and support a chat-based peer mentoring service. *Planned launch in 2022.*
 
 # Join the Conversation!
 
